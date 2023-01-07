@@ -25,3 +25,5 @@ codeBlocks
 /windows/inno/version.iss
 /windows/inno/win32
 /windows/inno/win64
+
+.fake
